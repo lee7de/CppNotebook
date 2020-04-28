@@ -1,5 +1,7 @@
 ## cppcode感悟记录（时间顺序）
+
 #### 2020/4/18 study_cpp 
+
 ```
 1、基础知识学习，开始编写思维导图
 2、熟悉vs以及在vs上使用git管理代码
@@ -18,4 +20,5 @@
 
 
 ## 参考书籍
-    C++ primer plus 中文版第五版 Stanley B.Lippman 等著 王刚 杨巨峰 译
+    C++ primer plus （中文版）第五版 
+    Stanley B.Lippman 等著 王刚 杨巨峰 译
